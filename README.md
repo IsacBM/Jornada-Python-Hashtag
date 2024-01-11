@@ -8,11 +8,13 @@ A **`Jornada Python da Hashtag`**, realizado pela **[Hashtag Treinamentos](https
 # Python Power Up: Automação de Tarefas | Aula 1
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/PowerUp-Python/index.py)** :heavy_check_mark:
 
+• Na aula Python Power UP fizemos um projeto de automação. A ideia do projeto era que você conseguisse entrar em um site, fazer o seu login e realizar o cadastro de todos os produtos que estão em uma base de dados de forma totalmente automática.
+
 ---
 
 # Python Insights: Analisando Dados com Python | Aula 2
 
-> • Status da Tarefa: **[Em Processo...]()**
+> • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-Insights/inicial.ipynb)** :heavy_check_mark:
 
 ---
 
