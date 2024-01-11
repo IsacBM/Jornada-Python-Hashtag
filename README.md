@@ -28,7 +28,7 @@ desses clientes. O objetivo era realizar essas análises para ver onde estariam 
 
 ---
 
-# Python Dev: Criação de Sites e Sistemas com Python | Aula 4
+# Python Dev: Criação de Sites e Sistemas | Aula 4
 
 > • Status da Tarefa: **[Em Processo...]()**
 
