@@ -5,14 +5,14 @@ A **`Jornada Python da Hashtag`**, realizado pela **[Hashtag Treinamentos](https
 
 #
 
-# Python Power Up: Automação de Tarefas | Aula 1
+# 1- Python Power Up: Automação de Tarefas | Aula 1
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/PowerUp-Python/index.py)** :heavy_check_mark:
 
 • Na aula **`Python Power UP`**, fizemos um projeto de automação. A ideia do projeto era que você conseguisse entrar em um site, fazer o seu login e realizar o cadastro de todos os produtos que estão em uma base de dados de forma totalmente automática.
 
 ---
 
-# Python Insights: Analisando Dados com Python | Aula 2
+# 2- Python Insights: Analisando Dados com Python | Aula 2
 
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-Insights/inicial.ipynb)** :heavy_check_mark:
 
@@ -22,13 +22,15 @@ desses clientes. O objetivo era realizar essas análises para ver onde estariam 
 
 ---
 
-# Python IA: Inteligência Artificial e Previsões | Aula 3
+# 3- Python IA: Inteligência Artificial e Previsões | Aula 3
 
-> • Status da Tarefa: **[Em Processo...]()**
+> • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-IA/inicial.ipynb)** :heavy_check_mark:
+
+• Na aula **`Python IA`**, nós fizemos uma análise de Score de cliente em um banco. Onde tinhamos uma base de dados de um banco de 100.000 clientes para verificar o score (pontuação) do cliente para saber se é um bom cliente ou não. Isso irá definir se o banco vai emprestar dinheiro, se ele vai ter crédito entre outros benefícios dentro do banco.
 
 ---
 
-# Python Dev: Criação de Sites e Sistemas | Aula 4
+# 4- Python Dev: Criação de Sites e Sistemas | Aula 4
 
 > • Status da Tarefa: **[Em Processo...]()**
 
