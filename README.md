@@ -3,18 +3,22 @@
 <!-- Status do Projeto: Concluido :heavy_check_mark:-->
 A **`Jornada Python da Hashtag`**, realizado pela **[Hashtag Treinamentos](https://www.cursoemvideo.com/)**, foi um evento que aconteceu em 4 dias, 09 a 11 de Janeiro de 2024, focado em aprender e aprimorar suas habilidades na linguagem **`Python`**, construindo em cada dia um novo projeto, sendo eles para: Análise de Dados, Automação, Criação de Sites e Inteligência Artificial.
 
----
+#
 
 # Python Power Up: Automação de Tarefas | Aula 1
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/PowerUp-Python/index.py)** :heavy_check_mark:
 
-• Na aula Python Power UP fizemos um projeto de automação. A ideia do projeto era que você conseguisse entrar em um site, fazer o seu login e realizar o cadastro de todos os produtos que estão em uma base de dados de forma totalmente automática.
+• Na aula **`Python Power UP`**, fizemos um projeto de automação. A ideia do projeto era que você conseguisse entrar em um site, fazer o seu login e realizar o cadastro de todos os produtos que estão em uma base de dados de forma totalmente automática.
 
 ---
 
 # Python Insights: Analisando Dados com Python | Aula 2
 
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-Insights/inicial.ipynb)** :heavy_check_mark:
+
+• Na aula **`Python Insights`**, foi abordado um Projeto de Análise de Cancelamento de Clientes. Isso quer dizer que tinhamos que fazer
+uma análise de uma base de dados para verificar essas informações dos clientes e verificar o percentual de cancelamento
+desses clientes. O objetivo era realizar essas análises para ver onde estariam os maiores cancelamentos e os motivos e com isso propor uma solução para diminuir essa quantidade de cancelamentos.
 
 ---
 
