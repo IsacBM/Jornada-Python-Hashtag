@@ -26,7 +26,7 @@ desses clientes. O objetivo era realizar essas análises para ver onde estariam 
 
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-IA/inicial.ipynb)** :heavy_check_mark:
 
-• Na aula **`Python IA`**, nós fizemos uma análise de Score de cliente em um banco. Onde tinhamos uma base de dados de um banco de 100.000 clientes para verificar o score (pontuação) do cliente para saber se é um bom cliente ou não. Isso irá definir se o banco vai emprestar dinheiro, se ele vai ter crédito entre outros benefícios dentro do banco.
+• Na aula **`Python IA`**, nós fizemos uma análise de Score de cliente em um banco. Onde tinhamos uma base de dados de um banco de 100.000 clientes para verificar o score (pontuação) do cliente para saber se é um bom cliente ou não, utilizando uma IA para essa avaliação. Isso irá definir se o banco vai emprestar dinheiro, se ele vai ter crédito entre outros benefícios dentro do banco.
 
 ---
 
