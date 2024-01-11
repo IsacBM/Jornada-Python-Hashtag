@@ -12,7 +12,7 @@ A **`Jornada Python da Hashtag`**, realizado pela **[Hashtag Treinamentos](https
 
 ---
 
-# 2- Python Insights: Analisando Dados com Python | Aula 2
+# 2- Python Insights: Analisando Dados | Aula 2
 
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-Insights/inicial.ipynb)** :heavy_check_mark:
 
