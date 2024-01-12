@@ -32,7 +32,10 @@ desses clientes. O objetivo era realizar essas análises para ver onde estariam 
 
 # 4- Python Dev: Criação de Sites e Sistemas | Aula 4
 
-> • Status da Tarefa: **[Em Processo...]()**
+> • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-Dev/main.py)** :heavy_check_mark:
+
+Na aula Python Dev, nós fizemos um Chat ao Vivo, chamado na aula de HashZap. Uma espécie de Whatsapp. A qual ele era um chat ao
+vivo, onde as pessoas poderiam entrar e conversar como se fosse um chat normal.
 
 ---
 
