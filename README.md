@@ -1,5 +1,5 @@
 # Jornada Python da Hashtag - Hashtag Treinamentos
-> Status do Evento: Em processo...
+> Status do Evento: Finalizado! :heavy_check_mark:
 <!-- Status do Projeto: Concluido :heavy_check_mark:-->
 A **`Jornada Python da Hashtag`**, realizado pela **[Hashtag Treinamentos](https://www.cursoemvideo.com/)**, foi um evento que aconteceu em 4 dias, 09 a 11 de Janeiro de 2024, focado em aprender e aprimorar suas habilidades na linguagem **`Python`**, construindo em cada dia um novo projeto, sendo eles para: Análise de Dados, Automação, Criação de Sites e Inteligência Artificial.
 
@@ -34,7 +34,7 @@ desses clientes. O objetivo era realizar essas análises para ver onde estariam 
 
 > • Status da Tarefa: **[Concluida](https://github.com/IsacBM/Jornada-Python-Hashtag/blob/main/Python-Dev/main.py)** :heavy_check_mark:
 
-Na aula Python Dev, nós fizemos um Chat ao Vivo, chamado na aula de HashZap. Uma espécie de Whatsapp. A qual ele era um chat ao
+• Na aula Python Dev, nós fizemos um Chat ao Vivo, chamado na aula de HashZap. Uma espécie de Whatsapp. A qual ele era um chat ao
 vivo, onde as pessoas poderiam entrar e conversar como se fosse um chat normal.
 
 ---
